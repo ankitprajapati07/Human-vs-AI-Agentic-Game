@@ -67,8 +67,8 @@ This game allows a human to compete against an AI in two modes:
 
 1. Clone the repository:
    ```bash
-   git clone https://gitlab.com/git_python_lr/gen-ai-practical-task.git
-   cd gen-ai-practical-task
+   git clone https://github.com/ankitprajapati07/Human-vs-AI-Agentic-Game.git
+   cd Human-vs-AI-Agentic-Game
    ```
 2. Create and activate a virtual environment:
    ```bash
