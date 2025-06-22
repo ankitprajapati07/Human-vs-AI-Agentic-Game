@@ -4,7 +4,7 @@ Welcome to **Human vs AI**, a fun and interactive game powered by Agentic AI wor
 
 
 ---
-## 🧱 System Architecture Overview (Just for your information)
+## 🧱 System Architecture Overview
 
 ### 1. Frontend (Web UI)
 - Presents a simple interface to:
